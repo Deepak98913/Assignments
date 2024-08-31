@@ -1,0 +1,3 @@
+Item: Widget
+Quantity: 100
+Price: $5.00
